@@ -1,5 +1,5 @@
 <?php
 
-    echo "Hola mungo GIT";
+    echo "Hola mundo GIT";
 
 ?>
